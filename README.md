@@ -1,2 +1,2 @@
 # ejemplo_2repo
-repositorio para tutoriales
+repositorio para tutoriales.
